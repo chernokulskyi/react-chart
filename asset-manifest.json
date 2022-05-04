@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-chart/static/css/main.f813b4da.css",
+    "main.js": "/react-chart/static/js/main.cc27e53d.js",
+    "index.html": "/react-chart/index.html",
+    "main.f813b4da.css.map": "/react-chart/static/css/main.f813b4da.css.map",
+    "main.cc27e53d.js.map": "/react-chart/static/js/main.cc27e53d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f813b4da.css",
+    "static/js/main.cc27e53d.js"
+  ]
+}
